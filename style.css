@@ -2,6 +2,14 @@
     display: flex;
     flex-direction: row;    
     padding: 40px;
-    margin: 40px;
-    align-items: center;
+}
+
+.card {
+    display: flex;
+    padding: 20px;
+    justify-content: center;
+}
+
+.jumbotron {
+    text-align: center;
 }
