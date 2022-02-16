@@ -14,3 +14,11 @@
 .jumbotron {
     text-align: center;
 }
+
+.iterationTitle {
+    margin: 20px;
+    display: flex;
+    justify-content: center; 
+    padding: 40px;
+    font-size: 50px;
+}
